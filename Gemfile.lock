@@ -161,7 +161,7 @@ GEM
     rake (13.0.6)
     regexp_parser (2.6.2)
     rexml (3.2.5)
-    rubocop (1.44.0)
+    rubocop (1.44.1)
       json (~> 2.3)
       parallel (~> 1.10)
       parser (>= 3.2.0.0)
@@ -216,7 +216,7 @@ PLATFORMS
 
 DEPENDENCIES
   bootsnap
-  bootstrap (~> 5.2)
+  bootstrap (~> 5.2.3)
   importmap-rails
   pg (~> 1.1)
   pry (~> 0.14.2)
